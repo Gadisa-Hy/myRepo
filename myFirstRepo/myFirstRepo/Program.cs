@@ -10,7 +10,8 @@ namespace myFirstRepo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is my cloned in Git hub");
+            Console.WriteLine("This is my cloned in Giit hub");
+            Console.WriteLine("This is my giiiiiit in Giit hub");
         }
     }
 }
