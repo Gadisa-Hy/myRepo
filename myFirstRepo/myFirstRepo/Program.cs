@@ -12,6 +12,7 @@ namespace myFirstRepo
         {
             Console.WriteLine("This is my cloned in Giit hub");
             Console.WriteLine("This is my giiiiiit in Giit hub");
+            Console.WriteLine("please make capital letter");
         }
     }
 }
